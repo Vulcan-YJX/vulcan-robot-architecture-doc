@@ -1,4 +1,4 @@
-> # Welcome to Vulcan-Location Documentation!
+> # Welcome to Vulcan-Robot-Architecture Documentation!
 
 ```{toctree}
 :maxdepth: 1

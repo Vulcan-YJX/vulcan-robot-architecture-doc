@@ -1,0 +1,27 @@
+# .readthedocs.yaml
+
+version: 2
+
+# 构建文档的语言
+sphinx:
+  configuration: conf.py
+
+# 构建文档时所需的 Python 依赖
+python:
+  version: 3.8
+  install:
+    - requirements: docs/requirements.txt
+
+# 使用的构建工具，例如 Sphinx
+build:
+  image: latest
+
+# 其他构建设置
+formats:
+  - pdf
+  - epub
+  - htmlzip
+
+# 触发器设置
+submodules:
+  include: all
