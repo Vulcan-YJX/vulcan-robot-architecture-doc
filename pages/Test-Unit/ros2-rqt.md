@@ -1,4 +1,4 @@
-# 数据分析工具
+# Rqt 数据分析工具
 
 ```{toctree}
 :maxdepth: 1

@@ -12,5 +12,7 @@ Command-Unit/user-command
 Command-Unit/command-manager
 ```
 
-#### Documentation will be updated on a regular basis. 
+------
+
+Documentation will be updated on a regular basis. 
 

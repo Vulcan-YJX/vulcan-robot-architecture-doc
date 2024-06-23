@@ -1,4 +1,4 @@
-# 配置文件模版
+# README 模版
 
 ```{toctree}
 :maxdepth: 1

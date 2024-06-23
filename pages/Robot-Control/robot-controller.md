@@ -1,9 +1,10 @@
-# 外接设备驱动模块
+# 机器人运动控制模块
 
 ```{toctree}
 :maxdepth: 1
 :glob:
 ```
 
-#### 用于发布各种传感器中其对应的 `frame id` 下的原始数据。供给 `perception-app` 及其他`ros` 单元的使用。
+------
 
+使用 [ros2_control](https://github.com/ros-controls/ros2_control) 框架实现的运动控制。

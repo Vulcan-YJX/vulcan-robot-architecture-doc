@@ -1,9 +1,11 @@
 # 指令调度器
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :glob:
 ```
 
-#### Documentation will be updated on a regular basis. 
+------
+
+Documentation will be updated on a regular basis. 
 
