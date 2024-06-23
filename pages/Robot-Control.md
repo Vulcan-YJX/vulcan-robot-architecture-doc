@@ -1,4 +1,4 @@
-# IMU里程计
+# 运动控制器单元
 
 ```{toctree}
 :maxdepth: 2

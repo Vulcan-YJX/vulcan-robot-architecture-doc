@@ -3,20 +3,20 @@
 ```{toctree}
 :maxdepth: 1
 :caption: Vulcan-Location-Docs
-pages/Visual-Odometry
-pages/IMU-Odometry
-pages/Wheel-Odometry
-pages/Lidar-Odometry
-pages/GPS-Odometry
+pages/Robot-Control
+pages/Perception-Unit
+pages/Command-Unit
+pages/System-Unit
+pages/Test-Unit
 ```
 
 ## 简介
 
 ![softWare pipeline](./_static/vulcan_tree.png)
 
-#### 这是一个个人项目，做这件事主要是出于兴趣爱好。
+#### 这是一个基于 `ROS2` 的软件框架。其中描述了一个机器人所包含的各个模块之间的消息连接。
 
-本仓库主要为了解决机器人的定位问题。代码主要以`Nvidia` 的 `Jetson` 平台进行实现 。为了便于个人维护，我对每一个功能都单独创建了 `cpp` 文件，这可能导致文件会有很多。其中部分算法保留了多种实现方式，您可以通过修改 `CMakelists` 根据您的使用环境选择最适合的方法。
+为了能够让机器人，本仓库主要为了解决机器人的定位问题。代码主要以`Nvidia` 的 `Jetson` 平台进行实现 。为了便于个人维护，我对每一个功能都单独创建了 `cpp` 文件，这可能导致文件会有很多。其中部分算法保留了多种实现方式，您可以通过修改 `CMakelists` 根据您的使用环境选择最适合的方法。
 
 仓库的构建，主要以三种方式呈现：
 
