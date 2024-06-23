@@ -10,5 +10,4 @@ Command-Unit/teleop-command
 Command-Unit/user-command
 ```
 
-#### Documentation will be updated on a regular basis. 
-
+#### 用于管理控制指令的模块。接收主动指令、被动指令为主动指令改变限制条件、指令管理器用于判断各种指令在当前状态是否存在冲突。

@@ -1,7 +1,7 @@
-# 用户控制指令节点
+# Ros2 数据录制与播放
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :glob:
 ```
 

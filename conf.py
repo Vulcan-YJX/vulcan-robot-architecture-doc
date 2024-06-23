@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'vulcan-location-docs'
-copyright = '2023, VulcanYJX'
-author = 'VulcanYJX'
+project = 'vulcan-robot-architecture-docs'
+copyright = '2024, Vulcan'
+author = 'Vulcan'
 release = 'v0.0.1'
 
 # -- General configuration ---------------------------------------------------

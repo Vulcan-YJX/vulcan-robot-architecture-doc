@@ -1,7 +1,7 @@
-# 用户控制指令节点
+# 数据分析工具
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :glob:
 ```
 

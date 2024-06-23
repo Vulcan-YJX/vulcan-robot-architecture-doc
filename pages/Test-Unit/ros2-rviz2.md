@@ -1,7 +1,7 @@
-# 用户控制指令节点
+# Rviz2 数据可视化工具
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :glob:
 ```
 
