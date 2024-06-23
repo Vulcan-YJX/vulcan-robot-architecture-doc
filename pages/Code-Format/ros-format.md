@@ -7,5 +7,23 @@
 
 ------
 
-请使用将接收的遥控器指令、`SDK` 控制指令转为 `ROS2` 的消息发布到 `command-manager` 的节点中。
+
+
+```bash
+└── example_pkg
+    ├── CMakeLists.txt
+    ├── config
+    │   └── param.yaml
+    ├── include
+    │   └── example_pkg
+    │       ├── example_node.hpp
+    │       └── user_function.hpp
+    ├── launch
+    │   └── example.launch.py
+    ├── package.xml
+    └── src
+        ├── example_node.cpp
+        ├── main.cpp
+        └── user_function.cpp
+```
 
