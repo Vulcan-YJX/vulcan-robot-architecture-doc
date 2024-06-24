@@ -4,7 +4,6 @@
 :maxdepth: 1
 :glob:
 ```
-
 ------
 
 这是一个 README 的模板，请在你的 ROS 包中添加此模版，并做出对应的描述。
@@ -16,12 +15,9 @@
 <img alt="language" src="https://img.shields.io/badge/language-c++-red"/>
 <img alt="platform" src="https://img.shields.io/badge/platform-linux-l"/>
 </p>
-
 <p align="center">
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
-
-
 ​	这是一个 exmaple_node 的 README 案例，订阅两个数据并按照固定的频率发布两个数据的和。
 
 ## Basic Information
@@ -34,22 +30,23 @@
 
 ## Subscribed
 
-| ROS Topic |       Interface        | Description |
-| :-------: | :--------------------: | :---------: |
-| `topic1`  | std_msgs::msg::Float64 |  接收数据A  |
-| `topic2`  | std_msgs::msg::Float64 |  接收数据B  |
+| ROS Topic |       Interface        | Frame ID | Description |
+| :-------: | :--------------------: | :------: | :---------: |
+| `topic1`  | std_msgs::msg::Float64 |  frameA  |  接收数据A  |
+| `topic2`  | std_msgs::msg::Float64 |  frameB  |  接收数据B  |
 
 ## Published
 
-| ROS Topic |       Interface        |    Description    |
-| :-------: | :--------------------: | :---------------: |
-|    sum    | std_msgs::msg::Float64 | 求和结果 1 Hz发布 |
+| ROS Topic |       Interface        | Frame ID |    Description    |
+| :-------: | :--------------------: | :------: | :---------------: |
+|    sum    | std_msgs::msg::Float64 |  frameC  | 求和结果 1 Hz发布 |
 
 ## Service
 
-| Service Topic |                  Call Interface                   |    Return Interface    |    Description    |
-| :-----------: | :-----------------------------------------------: | :--------------------: | :---------------: |
-| service name  | std_msgs::msg::Float64  ｜ std_msgs::msg::Float64 | std_msgs::msg::Float64 | 一个service的案例 |
+| Service Topic |     Call Interface     |    Return Interface    |       Description        |
+| :-----------: | :--------------------: | :--------------------: | :----------------------: |
+| service name  | std_msgs::msg::Float64 | std_msgs::msg::Float64 |    一个service的案例     |
+|               | std_msgs::msg::Float64 |                        | Service 的第二个输入描述 |
 
 
 
