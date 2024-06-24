@@ -24,13 +24,6 @@ ROS2 并不只是一个通信接口，而是大家约定俗成的一套开发流
 
 ​	如果在开发之初就没有做好各个功能模块的规划，及开发代码流程的规范，那就会造成维护难度大，`debug` 困难的局面。且自定义`msg` 在 `Rviz2` 和 `rqt` 中都需要做额外的工作才能让其正常的显示。对于机器人这个系统，尤其是移动端机器人，在没有可视化的情况下，对于真实环境运动出现的问题是很难调试的。
 
-- [指令管理器单元](./pages/Command-Unit.md)
-- [感知控制器单元](./pages/Perception-Unit.md)
-- [运动控制器单元](./pages/Robot-Control.md)
-- [系统任务单元](./pages/System-Unit.md)
-- [测试流程单元](./pages/Test-Unit.md)
-- [Ros代码规范](./pages/Code-Format.md)
-
 ### 致谢
 
 ```{note}
