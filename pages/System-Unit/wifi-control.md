@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	该仓库参考了[wifi_ddwrt](https://github.com/ros-drivers/wifi_ddwrt/tree/noetic-devel) 的消息格式，在 ros2 中做了实现。提供了关于 AP 模式开关，和 wifi 管理的 ROS2 消息接口。
+​	该仓库参考了[wifi_ddwrt](https://github.com/ros-drivers/wifi_ddwrt/tree/noetic-devel) 的消息格式，在 ros2 中做了实现。提供了关于 AP 模式开关，和 wifi 管理的 ROS2 
 
 ## Basic Information
 

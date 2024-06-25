@@ -27,9 +27,10 @@
 
 ## Published
 
-| ROS Topic | Interface | Frame ID | Description |
-| :-------: | :-------: | :------: | :---------: |
-|           |           |          |             |
+|  ROS Topic   |          Interface           | Frame ID  |      Description      |
+| :----------: | :--------------------------: | :-------: | :-------------------: |
+| system/joint | sensor_msgs::msg::JointState |   None    |    关节电机的数据     |
+|   body/imu   |    sensor_msgs::msg::Imu     | base_link | 机器人本体的 IMU 数据 |
 
 ## Build Package
 

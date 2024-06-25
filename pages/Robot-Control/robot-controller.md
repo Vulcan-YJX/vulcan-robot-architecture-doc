@@ -32,6 +32,13 @@
 |    /tf     | tf2_msgs::msg::TFMessage |   None   |     机器人的tf树     |
 | /tf_static | tf2_msgs::msg::TFMessage |   None   | tf树中的静态关节描述 |
 
+## Subscribed
+
+|  ROS Topic   |          Interface           | Frame ID  |  Description   |
+| :----------: | :--------------------------: | :-------: | :------------: |
+| system/joint | sensor_msgs::msg::JointState |   None    | 关节电机的数据 |
+|   body/imu   |    sensor_msgs::msg::Imu     | base_link | 机身的IMU数据  |
+
 ## Build Package
 
 ```bash
