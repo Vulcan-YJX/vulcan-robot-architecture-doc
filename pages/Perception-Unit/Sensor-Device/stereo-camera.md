@@ -40,7 +40,7 @@
 
 | Service Topic |   Call Interface    |  Return Interface   |           Description            |
 | :-----------: | :-----------------: | :-----------------: | :------------------------------: |
-| Reset_camera  | std_msgs::msg::Int8 | std_msgs::msg::Int8 | 重启相机的服务，返回1 则重启成功 |
+| camera/reset  | std_msgs::msg::Int8 | std_msgs::msg::Int8 | 重启相机的服务，返回1 则重启成功 |
 
 ## Build Package
 
