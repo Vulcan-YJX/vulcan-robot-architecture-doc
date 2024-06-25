@@ -28,7 +28,7 @@
 
 ## 一、电源状态管理器
 
-## Published
+### Published
 
 | ROS Topic  | Interface | Frame ID | Description |
 | :--------: | :-------: | :------: | :---------: |
@@ -38,9 +38,15 @@
 
 ## 二、电源设备管理器
 
+### Published
+
+|   ROS Topic    |           Interface           | Frame ID  |      Description       |
+| :------------: | :---------------------------: | :-------: | :--------------------: |
+| system/battery | sensor_msg::msg::BatteryState | battery_0 | 发布一个电池的状态信息 |
 
 
-## Build Package
+
+## 三、Build Package
 
 ```bash
 # if have extra dependencies
