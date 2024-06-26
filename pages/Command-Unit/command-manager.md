@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	用于整合主动控制指令，与被动控制指令。将两者结合后输出真正控制机器人的控制指令。
+​	用于整合主动控制指令，与被动控制指令。将两者结合后输出最终的机器人控制指令。
 
 ## Basic Information
 
