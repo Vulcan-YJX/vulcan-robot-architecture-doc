@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	接收传感器的识别结果与机器人的状态指令，转为当前状态下可以使用的指令及其可用的数值范围。如速度上限，某些按键是否可用。将其发布到 `command-manager` 的节点中。
+​	接收传感器的识别结果与机器人的状态指令，转为当前状态下可以使用的指令及其可用的数值范围。如速度上限，某些按键是否可用。将其发布到 `command-manager` 的节点中。其中包含了电池电量低，对于机器人行为的限制。
 
 ## Basic Information
 

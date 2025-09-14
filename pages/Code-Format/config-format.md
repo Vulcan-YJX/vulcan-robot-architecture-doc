@@ -12,9 +12,10 @@
 - ros2 param list
 
 ```yaml
-example_node:
-  ros__parameters:
-    value1: 1.0
-    value2: 2.0
+/**
+  example_node:
+    ros__parameters:
+      value1: 1.0
+      value2: 2.0
 ```
 

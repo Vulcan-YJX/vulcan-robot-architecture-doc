@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	机器人的设备状态监视器，用于检查当前机器人所有硬件状态是否正常。
+​	机器人的设备状态监视器，用于检查当前机器人所有硬件状态是否正常。检测机器人的电量和各个传感器模块是否正常工作。
 
 ## Basic Information
 

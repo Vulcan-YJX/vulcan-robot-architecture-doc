@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	机器人的 LED 控制器，用于接收显示指令通过控制 LED 或屏幕显示机器人的状态及信息。
+​	机器人的 LED 控制器，用于接收显示指令通过控制 LED 或屏幕显示机器人的状态及信息。对于一些控制指令，并不推荐使用`ROS` 的控制接口，尤其是带有一些远程的网络指令时，更推荐使用一些物联网层级的控制方案。
 
 ## Basic Information
 

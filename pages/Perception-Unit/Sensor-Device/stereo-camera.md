@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	读取双目相机设备，发布标定数据以及双目的图像信息。
+​	读取双目相机设备，发布标定数据以及双目的图像信息。通过外部参数的标定与激光雷达共同组成 `RGBD` 的传感器信息。
 
 ## Basic Information
 

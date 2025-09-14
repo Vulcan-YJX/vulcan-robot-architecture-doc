@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	机器人的 LED 控制器，用于接收显示指令通过控制 LED 或屏幕显示机器人的状态及信息。
+​	机器人的语音控制模块，用于播放指定的音频文件和控制实时语音的流式播放。
 
 ## Basic Information
 

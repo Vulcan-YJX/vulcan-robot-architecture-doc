@@ -17,7 +17,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	这是一个超声波模块的设备节点，用于读取超声波模块的数据，并发布出来。 
+​	这是一个超声波模块的设备节点，用于读取超声波模块的数据，并发布出来。作为一个近距离使用用于保护本体的测距传感器。主要用于判断玻璃等难以被光学传感器测量的部分。 
 
 ## Basic Information
 

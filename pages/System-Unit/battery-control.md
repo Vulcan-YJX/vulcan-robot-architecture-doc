@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	这是一个超声波模块的设备节点，用于读取超声波模块的数据，并发布出来。 
+​	与BMS通信的电源管理模块，用于将电池电量和电池状态广播到系统中。
 
 ## Basic Information
 

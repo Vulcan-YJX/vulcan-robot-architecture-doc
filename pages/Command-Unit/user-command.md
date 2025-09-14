@@ -16,7 +16,7 @@
     语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
-​	用户的 `SDK` 开发接口，将用户的指令转为 ros2 的通用遥控器 `active—command` 的节点中。
+​	用户的 `SDK` 开发接口，将用户的指令转为 ros2 的通用遥控器 `active—command` 的节点中。通过 `active-command` 节点中 `use_sdk` 开关来实现遥控器指令与机器人指令的切换。
 
 ## Basic Information
 
